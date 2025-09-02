@@ -6,7 +6,7 @@
     "name": "yaksha"
   },
   "homepage": ".",
-  "copyright": "Copyright 2017-2020 creativeLabs Łukasz Holeczek",
+  "copyright": "Copyright",
   "license": "MIT",
   "private": true,
   "dependencies": {

@@ -1,0 +1,5 @@
+[files-or-folders-to-hide]
+*.test.js
+ 
+[test-case-run-cmd]
+cmd=npm run test
